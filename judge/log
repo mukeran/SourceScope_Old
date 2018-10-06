@@ -1,0 +1,1 @@
+UPDATE `problem` SET `cnt_accepted_submission`=(SELECT count(*) FROM `submission` WHERE `pid`='7' AND `status`='2') WHERE `id`='7';

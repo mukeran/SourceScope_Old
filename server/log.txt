@@ -1,0 +1,938 @@
+[2016/04/24 02:24:13.828]Begin to listen on port
+[2016/04/24 02:24:16.390]Received a submission on port
+[2016/04/24 02:24:16.828]{"sid":"144","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include<con>\nint main() {}","language":"1"}
+[2016/04/24 02:24:16.828]Begin to test
+[2016/04/24 02:24:16.828]Parse Json Finished
+[2016/04/24 02:24:16.921]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 02:24:16.921]Reset Directory Finished
+[2016/04/24 02:24:16.921]Copy data from localhost
+[2016/04/24 02:24:16.937]Put Data Finished
+[2016/04/24 02:24:16.937]Submitting
+[2016/04/24 02:24:16.937]content={
+   "runinfo" : "",
+   "sid" : "144",
+   "status" : 0
+}
+
+[2016/04/24 02:24:17.203]cURL send message successfully.
+[2016/04/24 02:24:17.203]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 02:24:37.250]Compiler runs over than 5s.
+[2016/04/24 02:24:37.250]Submitting
+[2016/04/24 02:24:37.250]content={
+   "runinfo" : "",
+   "sid" : "144",
+   "status" : 1
+}
+
+[2016/04/24 02:24:37.453]cURL send message successfully.
+[2016/04/24 02:25:56.171]Begin to listen on port
+[2016/04/24 02:26:13.796]Received a submission on port
+[2016/04/24 02:26:14.156]{"sid":"145","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include<con>\nint main() {}","language":"1"}
+[2016/04/24 02:26:14.156]Begin to test
+[2016/04/24 02:26:14.156]Parse Json Finished
+[2016/04/24 02:26:14.171]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 02:26:14.171]Reset Directory Finished
+[2016/04/24 02:26:14.171]Copy data from localhost
+[2016/04/24 02:26:14.250]Put Data Finished
+[2016/04/24 02:26:14.250]Submitting
+[2016/04/24 02:26:14.250]content={
+   "runinfo" : "",
+   "sid" : "145",
+   "status" : 0
+}
+
+[2016/04/24 02:26:14.343]cURL send message successfully.
+[2016/04/24 02:26:14.343]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 02:26:15.343]Compiler runs over than 20s.
+[2016/04/24 02:26:15.343]Submitting
+[2016/04/24 02:26:15.343]content={
+   "runinfo" : "Compile TLE",
+   "sid" : "145",
+   "status" : 1
+}
+
+[2016/04/24 02:26:15.515]cURL send message successfully.
+[2016/04/24 03:05:55.062]Begin to listen on port
+[2016/04/24 03:06:01.968]Received a submission on port
+[2016/04/24 03:06:02.062]{"sid":"146","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    printf(\"1\");\n}","language":"1"}
+[2016/04/24 03:06:02.062]Begin to test
+[2016/04/24 03:06:02.062]Parse Json Finished
+[2016/04/24 03:06:02.078]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 03:06:02.078]Reset Directory Finished
+[2016/04/24 03:06:02.078]Copy data from localhost
+[2016/04/24 03:06:02.156]Put Data Finished
+[2016/04/24 03:06:02.156]Submitting
+[2016/04/24 03:06:02.156]content={
+   "runinfo" : "",
+   "sid" : "146",
+   "status" : 0
+}
+
+[2016/04/24 03:06:02.234]cURL send message successfully.
+[2016/04/24 03:06:02.234]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 03:06:03.734]Submitting
+[2016/04/24 03:06:03.734]content={
+   "runinfo" : "",
+   "sid" : "146",
+   "status" : 19
+}
+
+[2016/04/24 03:06:03.859]cURL send message successfully.
+[2016/04/24 03:06:03.906]All files are ready.
+[2016/04/24 03:06:04.015]Submitting
+[2016/04/24 03:06:04.015]content={
+   "data" : [
+      {
+         "runinfo" : "User:\n1\n------f---g---f-------\nStandard:\n3\n",
+         "status" : 11,
+         "usedmem" : 236,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "146",
+   "status" : 3
+}
+
+[2016/04/24 03:06:04.109]cURL send message successfully.
+[2016/04/24 03:06:04.140]All files are deleted.
+[2016/04/24 03:07:11.000]Received a submission on port
+[2016/04/24 03:07:11.140]{"sid":"147","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    printf(\"1\");\n}\n","language":"1"}
+[2016/04/24 03:07:11.140]Begin to test
+[2016/04/24 03:07:11.140]Parse Json Finished
+[2016/04/24 03:07:11.156]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 03:07:11.156]Reset Directory Finished
+[2016/04/24 03:07:11.156]Copy data from localhost
+[2016/04/24 03:07:11.187]Put Data Finished
+[2016/04/24 03:07:11.187]Submitting
+[2016/04/24 03:07:11.187]content={
+   "runinfo" : "",
+   "sid" : "147",
+   "status" : 0
+}
+
+[2016/04/24 03:07:11.250]cURL send message successfully.
+[2016/04/24 03:07:11.250]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 03:07:12.218]Submitting
+[2016/04/24 03:07:12.218]content={
+   "runinfo" : "",
+   "sid" : "147",
+   "status" : 19
+}
+
+[2016/04/24 03:07:12.281]cURL send message successfully.
+[2016/04/24 03:07:12.312]All files are ready.
+[2016/04/24 03:07:12.390]Submitting
+[2016/04/24 03:07:12.390]content={
+   "data" : [
+      {
+         "runinfo" : "User:\n1\n------f---g---f-------\nStandard:\n3\n",
+         "status" : 11,
+         "usedmem" : 236,
+         "usedtime" : 0
+      },
+      {
+         "runinfo" : "User:\n1\n------f---g---f-------\nStandard:\n3\n",
+         "status" : 11,
+         "usedmem" : 236,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "147",
+   "status" : 3
+}
+
+[2016/04/24 03:07:12.531]cURL send message successfully.
+[2016/04/24 03:07:12.593]All files are deleted.
+[2016/04/24 03:08:16.500]Received a submission on port
+[2016/04/24 03:08:17.593]{"sid":"148","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}","language":"1"}
+[2016/04/24 03:08:17.593]Begin to test
+[2016/04/24 03:08:17.593]Parse Json Finished
+[2016/04/24 03:08:17.609]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 03:08:17.609]Reset Directory Finished
+[2016/04/24 03:08:17.609]Copy data from localhost
+[2016/04/24 03:08:17.671]Put Data Finished
+[2016/04/24 03:08:17.671]Submitting
+[2016/04/24 03:08:17.671]content={
+   "runinfo" : "",
+   "sid" : "148",
+   "status" : 0
+}
+
+[2016/04/24 03:08:17.859]cURL send message successfully.
+[2016/04/24 03:08:17.859]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 03:08:19.312]Submitting
+[2016/04/24 03:08:19.312]content={
+   "runinfo" : "",
+   "sid" : "148",
+   "status" : 19
+}
+
+[2016/04/24 03:08:19.406]cURL send message successfully.
+[2016/04/24 03:08:19.421]All files are ready.
+[2016/04/24 03:08:19.500]Submitting
+[2016/04/24 03:08:19.500]content={
+   "data" : [
+      {
+         "runinfo" : "",
+         "status" : 10,
+         "usedmem" : 236,
+         "usedtime" : 0
+      },
+      {
+         "runinfo" : "",
+         "status" : 10,
+         "usedmem" : 236,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "148",
+   "status" : 2
+}
+
+[2016/04/24 03:08:19.562]cURL send message successfully.
+[2016/04/24 03:08:19.593]All files are deleted.
+[2016/04/24 03:09:00.484]Begin to listen on port
+[2016/04/24 03:09:05.406]Received a submission on port
+[2016/04/24 03:09:05.437]{"sid":"149","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}","language":"1"}
+[2016/04/24 03:09:05.437]Begin to test
+[2016/04/24 03:09:05.437]Parse Json Finished
+[2016/04/24 03:09:05.453]mkdir D:\server\run0 2> NUL > NUL
+[2016/04/24 03:09:05.453]Reset Directory Finished
+[2016/04/24 03:09:05.453]Copy data from localhost
+[2016/04/24 03:09:05.531]Put Data Finished
+[2016/04/24 03:09:05.531]Submitting
+[2016/04/24 03:09:05.531]content={
+   "runinfo" : "",
+   "sid" : "149",
+   "status" : 0
+}
+
+[2016/04/24 03:09:05.625]cURL send message successfully.
+[2016/04/24 03:09:05.640]g++ D:\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/24 03:09:05.781]Submitting
+[2016/04/24 03:09:05.781]content={
+   "runinfo" : "",
+   "sid" : "149",
+   "status" : 19
+}
+
+[2016/04/24 03:09:05.843]cURL send message successfully.
+[2016/04/24 03:09:05.859]All files are ready.
+[2016/04/24 03:09:05.921]Submitting
+[2016/04/24 03:09:05.921]content={
+   "data" : [
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 236,
+         "usedtime" : 0
+      },
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 236,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "149",
+   "status" : 2
+}
+
+[2016/04/24 03:09:06.062]cURL send message successfully.
+[2016/04/24 03:09:06.093]All files are deleted.
+[2016/04/22 19:05:09.896]Begin to listen on port 1234
+[2016/04/22 19:08:02.254]Begin to listen on port
+[2016/04/22 20:26:14.398]Begin to listen on port
+[2016/04/22 20:33:05.074]Received a submission on port
+[2016/04/22 20:33:05.687]{"sid":"1","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\\n\", a+b);\n    \n    return 0;\n}","language":"1"}
+[2016/04/22 20:33:05.688]Begin to test
+[2016/04/22 20:33:05.688]Parse Json Finished
+[2016/04/22 20:33:05.698]mkdir D:\code\server\run0 2> NUL > NUL
+[2016/04/22 20:33:05.699]Reset Directory Finished
+[2016/04/22 20:33:05.699]Copy data from localhost
+[2016/04/22 20:33:05.712]Put Data Finished
+[2016/04/22 20:33:05.713]Submitting
+[2016/04/22 20:33:05.713]content={
+   "runinfo" : "",
+   "sid" : "1",
+   "status" : 0
+}
+
+[2016/04/22 20:33:26.923]cURL send message failed and code is 7
+[2016/04/22 20:33:26.924]g++ D:\code\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/22 20:33:27.822]Submitting
+[2016/04/22 20:33:27.822]content={
+   "runinfo" : "",
+   "sid" : "1",
+   "status" : 19
+}
+
+[2016/04/22 20:34:34.147]Begin to listen on port
+[2016/04/22 20:34:44.996]Received a submission on port
+[2016/04/22 20:34:45.152]{"sid":"2","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\\n\", a+b);\n    \n    return 0;\n}","language":"1"}
+[2016/04/22 20:34:45.152]Begin to test
+[2016/04/22 20:34:45.153]Parse Json Finished
+[2016/04/22 20:34:45.161]mkdir D:\code\server\run0 2> NUL > NUL
+[2016/04/22 20:34:45.162]Reset Directory Finished
+[2016/04/22 20:34:45.162]Copy data from localhost
+[2016/04/22 20:34:45.173]Put Data Finished
+[2016/04/22 20:34:45.174]Submitting
+[2016/04/22 20:34:45.175]content={
+   "runinfo" : "",
+   "sid" : "2",
+   "status" : 0
+}
+
+[2016/04/22 20:34:45.184]cURL send message successfully.
+[2016/04/22 20:34:45.184]g++ D:\code\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/22 20:34:45.315]Submitting
+[2016/04/22 20:34:45.316]content={
+   "runinfo" : "",
+   "sid" : "2",
+   "status" : 19
+}
+
+[2016/04/22 20:34:45.324]cURL send message successfully.
+[2016/04/22 20:34:45.333]All files are ready.
+[2016/04/22 20:34:45.359]Submitting
+[2016/04/22 20:34:45.359]content={
+   "data" : [
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 416,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "2",
+   "status" : 2
+}
+
+[2016/04/22 20:34:45.369]cURL send message successfully.
+[2016/04/22 20:34:45.378]All files are deleted.
+[2016/04/22 22:03:44.889]Received a submission on port
+[2016/04/22 22:03:45.150]{"sid":"3","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    printf(\"5\");\n    return 0;\n}","language":"1"}tf(\"%d\\n\", a+b);\n    \n    return 0;\n}","language":"1"}
+[2016/04/22 22:03:45.151]Begin to test
+[2016/04/22 22:03:45.151]Parse Json Finished
+[2016/04/22 22:03:45.166]mkdir D:\code\server\run0 2> NUL > NUL
+[2016/04/22 22:03:45.167]Reset Directory Finished
+[2016/04/22 22:03:45.168]Copy data from localhost
+[2016/04/22 22:03:45.186]Put Data Finished
+[2016/04/22 22:03:45.186]Submitting
+[2016/04/22 22:03:45.187]content={
+   "runinfo" : "",
+   "sid" : "3",
+   "status" : 0
+}
+
+[2016/04/22 22:03:45.195]cURL send message successfully.
+[2016/04/22 22:03:45.195]g++ D:\code\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/22 22:03:45.326]Submitting
+[2016/04/22 22:03:45.327]content={
+   "runinfo" : "",
+   "sid" : "3",
+   "status" : 19
+}
+
+[2016/04/22 22:03:45.332]cURL send message successfully.
+[2016/04/22 22:03:45.341]All files are ready.
+[2016/04/22 22:03:45.365]Submitting
+[2016/04/22 22:03:45.366]content={
+   "data" : [
+      {
+         "runinfo" : "User:\n5\n------f---g---f-------\nStandard:\n3\n",
+         "status" : 11,
+         "usedmem" : 416,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "3",
+   "status" : 3
+}
+
+[2016/04/22 22:03:45.373]cURL send message successfully.
+[2016/04/22 22:03:45.381]All files are deleted.
+[2016/04/22 22:44:45.514]Begin to listen on port
+[2016/04/22 23:15:48.015]Begin to listen on port
+[2016/04/22 23:59:29.176]Begin to listen on port
+[2016/04/23 00:00:07.776]Received a submission on port
+[2016/04/23 00:00:08.200]{"sid":"4","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    int *u=NULL;\n    printf(\"%d\\n\", *u);\n    return 0;\n}","language":"1"}
+[2016/04/23 00:00:08.201]Begin to test
+[2016/04/23 00:00:08.202]Parse Json Finished
+[2016/04/23 00:00:08.217]mkdir D:\code\server\run0 2> NUL > NUL
+[2016/04/23 00:00:08.217]Reset Directory Finished
+[2016/04/23 00:00:08.218]Copy data from localhost
+[2016/04/23 00:00:08.236]Put Data Finished
+[2016/04/23 00:00:08.236]Submitting
+[2016/04/23 00:00:08.237]content={
+   "runinfo" : "",
+   "sid" : "4",
+   "status" : 0
+}
+
+[2016/04/23 00:00:08.248]cURL send message successfully.
+[2016/04/23 00:00:08.248]g++ D:\code\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 00:00:08.375]Submitting
+[2016/04/23 00:00:08.375]content={
+   "runinfo" : "",
+   "sid" : "4",
+   "status" : 19
+}
+
+[2016/04/23 00:00:08.382]cURL send message successfully.
+[2016/04/23 00:00:08.391]All files are ready.
+[2016/04/23 00:00:08.417]Submitting
+[2016/04/23 00:00:08.417]content={
+   "data" : [
+      {
+         "runinfo" : "EXCEPTION_ACCESS_VIOLATION",
+         "status" : 14,
+         "usedmem" : 0,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "4",
+   "status" : 3
+}
+
+[2016/04/23 00:00:08.427]cURL send message successfully.
+[2016/04/23 00:00:08.435]All files are deleted.
+[2016/04/23 13:01:47.115]Begin to listen on port
+[2016/04/23 21:14:25.303]Begin to listen on port
+[2016/04/23 21:15:14.428]Received a submission on port
+[2016/04/23 21:15:15.324]{"sid":"769","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"afaef","language":"1"}
+[2016/04/23 21:15:15.342]Begin to test
+[2016/04/23 21:15:15.359]Parse Json Finished
+[2016/04/23 21:15:17.292]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:15:17.308]Reset Directory Finished
+[2016/04/23 21:15:17.322]Copy data from localhost
+[2016/04/23 21:15:17.429]Put Data Finished
+[2016/04/23 21:15:17.503]Submitting
+[2016/04/23 21:15:17.518]content={
+   "runinfo" : "",
+   "sid" : "769",
+   "status" : 0
+}
+
+[2016/04/23 21:15:17.656]cURL send message successfully.
+[2016/04/23 21:15:17.693]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:15:19.021]Submitting
+[2016/04/23 21:15:19.036]content={
+   "runinfo" : "H:\\Project\\WebProjects\\JudgeOnline\\server\\run0\\main.cpp:1: error: expected constructor, destructor, or type conversion at end of input\n",
+   "sid" : "769",
+   "status" : 1
+}
+
+[2016/04/23 21:15:19.095]cURL send message successfully.
+[2016/04/23 21:15:19.126]Compile error!
+[2016/04/23 21:15:41.209]Received a submission on port
+[2016/04/23 21:15:41.241]{"sid":"770","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"afs","language":"1"}"}
+[2016/04/23 21:15:41.266]Begin to test
+[2016/04/23 21:15:41.283]Parse Json Finished
+[2016/04/23 21:15:41.362]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:15:41.378]Reset Directory Finished
+[2016/04/23 21:15:41.395]Copy data from localhost
+[2016/04/23 21:15:41.493]Put Data Finished
+[2016/04/23 21:15:41.548]Submitting
+[2016/04/23 21:15:41.563]content={
+   "runinfo" : "",
+   "sid" : "770",
+   "status" : 0
+}
+
+[2016/04/23 21:15:41.630]cURL send message successfully.
+[2016/04/23 21:15:41.666]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:15:41.744]Submitting
+[2016/04/23 21:15:41.758]content={
+   "runinfo" : "H:\\Project\\WebProjects\\JudgeOnline\\server\\run0\\main.cpp:1: error: expected constructor, destructor, or type conversion at end of input\n",
+   "sid" : "770",
+   "status" : 1
+}
+
+[2016/04/23 21:15:41.825]cURL send message successfully.
+[2016/04/23 21:15:41.856]Compile error!
+[2016/04/23 21:16:24.454]Received a submission on port
+[2016/04/23 21:16:24.969]{"sid":"771","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"ff","language":"1"}}"}
+[2016/04/23 21:16:24.985]Begin to test
+[2016/04/23 21:16:25.001]Parse Json Finished
+[2016/04/23 21:16:25.067]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:16:25.081]Reset Directory Finished
+[2016/04/23 21:16:25.096]Copy data from localhost
+[2016/04/23 21:16:25.198]Put Data Finished
+[2016/04/23 21:16:25.262]Submitting
+[2016/04/23 21:16:25.276]content={
+   "runinfo" : "",
+   "sid" : "771",
+   "status" : 0
+}
+
+[2016/04/23 21:16:25.370]cURL send message successfully.
+[2016/04/23 21:16:25.409]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:16:25.510]Submitting
+[2016/04/23 21:16:25.524]content={
+   "runinfo" : "H:\\Project\\WebProjects\\JudgeOnline\\server\\run0\\main.cpp:1: error: expected constructor, destructor, or type conversion at end of input\n",
+   "sid" : "771",
+   "status" : 1
+}
+
+[2016/04/23 21:16:25.607]cURL send message successfully.
+[2016/04/23 21:16:25.638]Compile error!
+[2016/04/23 21:18:19.085]Received a submission on port
+[2016/04/23 21:18:19.812]{"sid":"772","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"aefae","language":"1"}
+[2016/04/23 21:18:19.828]Begin to test
+[2016/04/23 21:18:19.842]Parse Json Finished
+[2016/04/23 21:18:19.907]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:18:19.922]Reset Directory Finished
+[2016/04/23 21:18:19.937]Copy data from localhost
+[2016/04/23 21:18:20.042]Put Data Finished
+[2016/04/23 21:18:20.112]Submitting
+[2016/04/23 21:18:20.127]content={
+   "runinfo" : "",
+   "sid" : "772",
+   "status" : 0
+}
+
+[2016/04/23 21:18:20.217]cURL send message successfully.
+[2016/04/23 21:18:20.254]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:18:20.344]Submitting
+[2016/04/23 21:18:20.359]content={
+   "runinfo" : "H:\\Project\\WebProjects\\JudgeOnline\\server\\run0\\main.cpp:1: error: expected constructor, destructor, or type conversion at end of input\n",
+   "sid" : "772",
+   "status" : 1
+}
+
+[2016/04/23 21:18:20.455]cURL send message successfully.
+[2016/04/23 21:18:20.502]Compile error!
+[2016/04/23 21:19:05.740]Received a submission on port
+[2016/04/23 21:19:06.657]{"sid":"773","pid":"1001","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:19:06.676]Begin to test
+[2016/04/23 21:19:06.692]Parse Json Finished
+[2016/04/23 21:19:06.760]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:19:06.777]Reset Directory Finished
+[2016/04/23 21:19:06.793]Copy data from localhost
+[2016/04/23 21:19:06.896]Put Data Finished
+[2016/04/23 21:19:06.963]Submitting
+[2016/04/23 21:19:06.977]content={
+   "runinfo" : "",
+   "sid" : "773",
+   "status" : 0
+}
+
+[2016/04/23 21:19:07.141]cURL send message successfully.
+[2016/04/23 21:19:07.185]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:19:10.474]Submitting
+[2016/04/23 21:19:10.489]content={
+   "runinfo" : "",
+   "sid" : "773",
+   "status" : 19
+}
+
+[2016/04/23 21:19:10.579]cURL send message successfully.
+[2016/04/23 21:19:10.802]All files are ready.
+[2016/04/23 21:19:11.029]Submitting
+[2016/04/23 21:19:11.043]content={
+   "data" : [
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 588,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "773",
+   "status" : 2
+}
+
+[2016/04/23 21:19:11.129]cURL send message successfully.
+[2016/04/23 21:19:11.309]All files are deleted.
+[2016/04/23 21:24:26.907]Received a submission on port
+[2016/04/23 21:24:27.487]{"sid":"774","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"t","language":"1"}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:27.506]Begin to test
+[2016/04/23 21:24:27.529]Parse Json Finished
+[2016/04/23 21:24:27.607]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:27.621]Reset Directory Finished
+[2016/04/23 21:24:27.635]Copy data from localhost
+[2016/04/23 21:24:27.720]Put Data Finished
+[2016/04/23 21:24:27.796]Submitting
+[2016/04/23 21:24:27.813]content={
+   "runinfo" : "",
+   "sid" : "774",
+   "status" : 0
+}
+
+[2016/04/23 21:24:27.909]cURL send message successfully.
+[2016/04/23 21:24:27.960]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:28.046]Submitting
+[2016/04/23 21:24:28.061]content={
+   "runinfo" : "H:\\Project\\WebProjects\\JudgeOnline\\server\\run0\\main.cpp:1: error: expected constructor, destructor, or type conversion at end of input\n",
+   "sid" : "774",
+   "status" : 1
+}
+
+[2016/04/23 21:24:28.149]cURL send message successfully.
+[2016/04/23 21:24:28.178]Compile error!
+[2016/04/23 21:24:30.896]Received a submission on port
+[2016/04/23 21:24:31.277]{"sid":"775","pid":"1002","time_lmt":"1000","mem_lmt":"65536","code":"","language":"1"}}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:31.291]Begin to test
+[2016/04/23 21:24:31.306]Parse Json Finished
+[2016/04/23 21:24:31.399]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:31.414]Reset Directory Finished
+[2016/04/23 21:24:31.430]Copy data from localhost
+[2016/04/23 21:24:31.460]Put Data Finished
+[2016/04/23 21:24:31.510]Submitting
+[2016/04/23 21:24:31.524]content={
+   "runinfo" : "",
+   "sid" : "775",
+   "status" : 0
+}
+
+[2016/04/23 21:24:31.625]cURL send message successfully.
+[2016/04/23 21:24:31.666]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:33.715]Submitting
+[2016/04/23 21:24:33.729]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "775",
+   "status" : 1
+}
+
+[2016/04/23 21:24:33.831]cURL send message successfully.
+[2016/04/23 21:24:33.862]Compile error!
+[2016/04/23 21:24:39.049]Received a submission on port
+[2016/04/23 21:24:39.948]{"sid":"776","pid":"1003","time_lmt":"1000","mem_lmt":"131072","code":"","language":"1"}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:39.964]Begin to test
+[2016/04/23 21:24:39.979]Parse Json Finished
+[2016/04/23 21:24:40.045]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:40.059]Reset Directory Finished
+[2016/04/23 21:24:40.073]Copy data from localhost
+[2016/04/23 21:24:40.102]Put Data Finished
+[2016/04/23 21:24:40.141]Submitting
+[2016/04/23 21:24:40.156]content={
+   "runinfo" : "",
+   "sid" : "776",
+   "status" : 0
+}
+
+[2016/04/23 21:24:40.246]cURL send message successfully.
+[2016/04/23 21:24:40.281]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:40.517]Submitting
+[2016/04/23 21:24:40.531]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "776",
+   "status" : 1
+}
+
+[2016/04/23 21:24:40.620]cURL send message successfully.
+[2016/04/23 21:24:40.651]Compile error!
+[2016/04/23 21:24:43.671]Received a submission on port
+[2016/04/23 21:24:43.727]{"sid":"777","pid":"1004","time_lmt":"1000","mem_lmt":"131072","code":"","language":"1"}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:43.741]Begin to test
+[2016/04/23 21:24:43.759]Parse Json Finished
+[2016/04/23 21:24:43.856]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:43.881]Reset Directory Finished
+[2016/04/23 21:24:43.904]Copy data from localhost
+[2016/04/23 21:24:43.942]Put Data Finished
+[2016/04/23 21:24:43.991]Submitting
+[2016/04/23 21:24:44.005]content={
+   "runinfo" : "",
+   "sid" : "777",
+   "status" : 0
+}
+
+[2016/04/23 21:24:44.092]cURL send message successfully.
+[2016/04/23 21:24:44.131]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:44.356]Submitting
+[2016/04/23 21:24:44.372]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "777",
+   "status" : 1
+}
+
+[2016/04/23 21:24:44.463]cURL send message successfully.
+[2016/04/23 21:24:44.494]Compile error!
+[2016/04/23 21:24:48.757]Received a submission on port
+[2016/04/23 21:24:49.625]{"sid":"778","pid":"1005","time_lmt":"1000","mem_lmt":"65536","code":"","language":"1"}}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:49.641]Begin to test
+[2016/04/23 21:24:49.656]Parse Json Finished
+[2016/04/23 21:24:49.751]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:49.766]Reset Directory Finished
+[2016/04/23 21:24:49.780]Copy data from localhost
+[2016/04/23 21:24:49.809]Put Data Finished
+[2016/04/23 21:24:49.854]Submitting
+[2016/04/23 21:24:49.892]content={
+   "runinfo" : "",
+   "sid" : "778",
+   "status" : 0
+}
+
+[2016/04/23 21:24:49.994]cURL send message successfully.
+[2016/04/23 21:24:50.032]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:50.287]Submitting
+[2016/04/23 21:24:50.301]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "778",
+   "status" : 1
+}
+
+[2016/04/23 21:24:50.391]cURL send message successfully.
+[2016/04/23 21:24:50.420]Compile error!
+[2016/04/23 21:24:53.028]Received a submission on port
+[2016/04/23 21:24:53.498]{"sid":"779","pid":"1006","time_lmt":"1000","mem_lmt":"65536","code":"","language":"1"}}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:53.516]Begin to test
+[2016/04/23 21:24:53.533]Parse Json Finished
+[2016/04/23 21:24:53.636]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:53.652]Reset Directory Finished
+[2016/04/23 21:24:53.672]Copy data from localhost
+[2016/04/23 21:24:53.705]Put Data Finished
+[2016/04/23 21:24:53.758]Submitting
+[2016/04/23 21:24:53.774]content={
+   "runinfo" : "",
+   "sid" : "779",
+   "status" : 0
+}
+
+[2016/04/23 21:24:53.877]cURL send message successfully.
+[2016/04/23 21:24:53.915]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:54.154]Submitting
+[2016/04/23 21:24:54.168]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "779",
+   "status" : 1
+}
+
+[2016/04/23 21:24:54.262]cURL send message successfully.
+[2016/04/23 21:24:54.292]Compile error!
+[2016/04/23 21:24:57.782]Received a submission on port
+[2016/04/23 21:24:58.373]{"sid":"780","pid":"test","time_lmt":"1000","mem_lmt":"65536","code":"","language":"1"}}nint main() {\n    int a, b;\n    scanf(\"%d%d\", &a, &b);\n    printf(\"%d\", a + b);\n}\n","language":"1"}
+[2016/04/23 21:24:58.389]Begin to test
+[2016/04/23 21:24:58.403]Parse Json Finished
+[2016/04/23 21:24:58.499]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:24:58.517]Reset Directory Finished
+[2016/04/23 21:24:58.532]Copy data from localhost
+[2016/04/23 21:24:58.563]Put Data Finished
+[2016/04/23 21:24:58.608]Submitting
+[2016/04/23 21:24:58.624]content={
+   "runinfo" : "",
+   "sid" : "780",
+   "status" : 0
+}
+
+[2016/04/23 21:24:58.722]cURL send message successfully.
+[2016/04/23 21:24:58.762]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:24:58.994]Submitting
+[2016/04/23 21:24:59.009]content={
+   "runinfo" : "d:/guide/mingw/bin/../lib/gcc/mingw32/4.4.1/../../../libmingw32.a(main.o):main.c:(.text+0xd2): undefined reference to `WinMain@16'\ncollect2: ld returned 1 exit status\n",
+   "sid" : "780",
+   "status" : 1
+}
+
+[2016/04/23 21:24:59.100]cURL send message successfully.
+[2016/04/23 21:24:59.131]Compile error!
+[2016/04/23 21:32:41.066]Received a submission on port
+[2016/04/23 21:32:41.475]{"sid":"781","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    printf(\"hello world\");\n    return 0;\n}","language":"1"}, a + b);\n}\n","language":"1"}
+[2016/04/23 21:32:41.490]Begin to test
+[2016/04/23 21:32:41.505]Parse Json Finished
+[2016/04/23 21:32:41.574]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:32:41.589]Reset Directory Finished
+[2016/04/23 21:32:41.604]Copy data from localhost
+[2016/04/23 21:32:41.689]Put Data Finished
+[2016/04/23 21:32:41.744]Submitting
+[2016/04/23 21:32:41.758]content={
+   "runinfo" : "",
+   "sid" : "781",
+   "status" : 0
+}
+
+[2016/04/23 21:32:41.849]cURL send message successfully.
+[2016/04/23 21:32:41.884]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:32:42.164]Submitting
+[2016/04/23 21:32:42.178]content={
+   "runinfo" : "",
+   "sid" : "781",
+   "status" : 19
+}
+
+[2016/04/23 21:32:42.267]cURL send message successfully.
+[2016/04/23 21:32:42.407]All files are ready.
+[2016/04/23 21:32:42.613]Submitting
+[2016/04/23 21:32:42.628]content={
+   "data" : [
+      {
+         "runinfo" : "User:\n",
+         "status" : 11,
+         "usedmem" : 588,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "781",
+   "status" : 3
+}
+
+[2016/04/23 21:32:42.721]cURL send message successfully.
+[2016/04/23 21:32:42.900]All files are deleted.
+[2016/04/23 21:33:34.228]Received a submission on port
+[2016/04/23 21:33:34.946]{"sid":"782","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main(){\n    printf(\"hello world!\");\n    return 0;\n}","language":"1"} a + b);\n}\n","language":"1"}
+[2016/04/23 21:33:34.960]Begin to test
+[2016/04/23 21:33:34.975]Parse Json Finished
+[2016/04/23 21:33:35.042]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 21:33:35.056]Reset Directory Finished
+[2016/04/23 21:33:35.070]Copy data from localhost
+[2016/04/23 21:33:35.144]Put Data Finished
+[2016/04/23 21:33:35.222]Submitting
+[2016/04/23 21:33:35.243]content={
+   "runinfo" : "",
+   "sid" : "782",
+   "status" : 0
+}
+
+[2016/04/23 21:33:35.337]cURL send message successfully.
+[2016/04/23 21:33:35.375]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 21:33:35.590]Submitting
+[2016/04/23 21:33:35.605]content={
+   "runinfo" : "",
+   "sid" : "782",
+   "status" : 19
+}
+
+[2016/04/23 21:33:35.689]cURL send message successfully.
+[2016/04/23 21:33:35.826]All files are ready.
+[2016/04/23 21:33:35.999]Submitting
+[2016/04/23 21:33:36.014]content={
+   "data" : [
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 588,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "782",
+   "status" : 2
+}
+
+[2016/04/23 21:33:36.102]cURL send message successfully.
+[2016/04/23 21:33:36.265]All files are deleted.
+[2016/04/23 22:26:28.901]Received a submission on port
+[2016/04/23 22:26:29.914]{"sid":"783","pid":"1000","time_lmt":"1000","mem_lmt":"65536","code":"#include <cstdio>\nint main() {\n    printf(\"hello world!\");\n}\n","language":"1"}nguage":"1"} a + b);\n}\n","language":"1"}
+[2016/04/23 22:26:29.933]Begin to test
+[2016/04/23 22:26:29.950]Parse Json Finished
+[2016/04/23 22:26:30.032]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 22:26:30.046]Reset Directory Finished
+[2016/04/23 22:26:30.061]Copy data from localhost
+[2016/04/23 22:26:30.137]Put Data Finished
+[2016/04/23 22:26:30.208]Submitting
+[2016/04/23 22:26:30.223]content={
+   "runinfo" : "",
+   "sid" : "783",
+   "status" : 0
+}
+
+[2016/04/23 22:26:30.329]cURL send message successfully.
+[2016/04/23 22:26:30.388]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 22:26:30.706]Submitting
+[2016/04/23 22:26:30.722]content={
+   "runinfo" : "",
+   "sid" : "783",
+   "status" : 19
+}
+
+[2016/04/23 22:26:30.810]cURL send message successfully.
+[2016/04/23 22:26:31.070]All files are ready.
+[2016/04/23 22:26:31.307]Submitting
+[2016/04/23 22:26:31.342]content={
+   "data" : [
+      {
+         "runinfo" : "You are right.",
+         "status" : 10,
+         "usedmem" : 588,
+         "usedtime" : 0
+      }
+   ],
+   "runinfo" : "",
+   "sid" : "783",
+   "status" : 2
+}
+
+[2016/04/23 22:26:31.429]cURL send message successfully.
+[2016/04/23 22:26:31.599]All files are deleted.
+[2016/04/23 22:27:29.187]Received a submission on port
+[2016/04/23 22:27:29.644]{"sid":"784","pid":"1004","time_lmt":"1000","mem_lmt":"131072","code":"#include <cstdio>\nint main() {}","language":"1"}o world!\");\n}\n","language":"1"}nguage":"1"} a + b);\n}\n","language":"1"}
+[2016/04/23 22:27:29.659]Begin to test
+[2016/04/23 22:27:29.674]Parse Json Finished
+[2016/04/23 22:27:29.751]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 22:27:29.766]Reset Directory Finished
+[2016/04/23 22:27:29.782]Copy data from localhost
+[2016/04/23 22:27:29.815]Put Data Finished
+[2016/04/23 22:27:29.869]Submitting
+[2016/04/23 22:27:29.885]content={
+   "runinfo" : "",
+   "sid" : "784",
+   "status" : 0
+}
+
+[2016/04/23 22:27:29.982]cURL send message successfully.
+[2016/04/23 22:27:30.017]g++ H:\Project\WebProjects\JudgeOnline\server\run0\main.cpp -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 22:27:30.316]Submitting
+[2016/04/23 22:27:30.331]content={
+   "runinfo" : "",
+   "sid" : "784",
+   "status" : 19
+}
+
+[2016/04/23 22:27:30.431]cURL send message successfully.
+[2016/04/23 22:27:30.585]All files are ready.
+[2016/04/23 22:27:30.873]Submitting
+[2016/04/23 22:27:30.891]content={
+   "data" : null,
+   "runinfo" : "",
+   "sid" : "784",
+   "status" : 2
+}
+
+[2016/04/23 22:27:30.993]cURL send message successfully.
+[2016/04/23 22:27:31.118]All files are deleted.
+[2016/04/23 22:27:49.170]Received a submission on port
+[2016/04/23 22:27:50.143]{"sid":"785","pid":"1005","time_lmt":"1000","mem_lmt":"65536","code":"main() {}","language":"0"}in() {}","language":"1"}o world!\");\n}\n","language":"1"}nguage":"1"} a + b);\n}\n","language":"1"}
+[2016/04/23 22:27:50.160]Begin to test
+[2016/04/23 22:27:50.176]Parse Json Finished
+[2016/04/23 22:27:50.244]mkdir H:\Project\WebProjects\JudgeOnline\server\run0 2> NUL > NUL
+[2016/04/23 22:27:50.258]Reset Directory Finished
+[2016/04/23 22:27:50.273]Copy data from localhost
+[2016/04/23 22:27:50.304]Put Data Finished
+[2016/04/23 22:27:50.363]Submitting
+[2016/04/23 22:27:50.377]content={
+   "runinfo" : "",
+   "sid" : "785",
+   "status" : 0
+}
+
+[2016/04/23 22:27:50.464]cURL send message successfully.
+[2016/04/23 22:27:50.498]gcc H:\Project\WebProjects\JudgeOnline\server\run0\main.c -o .\run0\main -w -Wall -DONLINE_JUDGE
+[2016/04/23 22:27:51.600]Submitting
+[2016/04/23 22:27:51.642]content={
+   "runinfo" : "",
+   "sid" : "785",
+   "status" : 19
+}
+
+[2016/04/23 22:27:51.761]cURL send message successfully.
+[2016/04/23 22:27:51.901]All files are ready.
+[2016/04/23 22:27:51.996]Submitting
+[2016/04/23 22:27:52.010]content={
+   "data" : null,
+   "runinfo" : "",
+   "sid" : "785",
+   "status" : 2
+}
+
+[2016/04/23 22:27:52.107]cURL send message successfully.
+[2016/04/23 22:27:52.246]All files are deleted.

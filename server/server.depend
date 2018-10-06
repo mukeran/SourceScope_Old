@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1461337859 source:d:\code\server\main.cpp
+	<cstdio>
+	<cstring>
+	<pthread.h>
+	<cstdlib>
+	<algorithm>
+	<windows.h>
+	<Winsock2.h>
+	<unistd.h>
+	<dir.h>
+	<direct.h>
+	<iostream>
+	<queue>
+	<dirent.h>
+	<curl/curl.h>
+	<json/json.h>
+
+1461263785 source:d:\gjy\server\main.cpp
+	<cstdio>
+	<cstring>
+	<pthread.h>
+	<cstdlib>
+	<algorithm>
+	<windows.h>
+	<Winsock2.h>
+	<unistd.h>
+	<dir.h>
+	<direct.h>
+	<iostream>
+	<queue>
+	<dirent.h>
+	<curl/curl.h>
+	<json/json.h>
+
+1461438537 source:d:\server\main.cpp
+	<cstdio>
+	<cstring>
+	<pthread.h>
+	<cstdlib>
+	<algorithm>
+	<windows.h>
+	<Winsock2.h>
+	<unistd.h>
+	<dir.h>
+	<direct.h>
+	<iostream>
+	<queue>
+	<dirent.h>
+	<curl/curl.h>
+	<json/json.h>
+
